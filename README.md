@@ -39,7 +39,7 @@ This program serves several important purposes:
 
 This program aims to simulates a realistic data science workflow where data is processed, a model is trained, predictions are made, and results are evaluated.
 
-## 4. What would be some sample input/output?
+## What would be some sample input/output?
 
 ### Sample Input
 
