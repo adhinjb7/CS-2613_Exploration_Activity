@@ -23,3 +23,30 @@ Download the project files or clone the repository using Git
 
 ### Step 3: Run the Program
 
+## What purpose does your program serve?
+
+The purpose of this program is to demonstrate how machine learning can be used to analyze real-world data and make predictions using a regression model.
+
+Specifically, this program uses Scikit-learn to perform **linear regression** on a real dataset (the diabetes dataset). The goal of the model is to predict a continuous value (disease progression) based on multiple input features such as age, body mass index (BMI), and blood pressure.
+
+This program serves several important purposes:
+
+- It shows how to load and work with real-world datasets.
+- It demonstrates how to split data into training and testing sets.
+- It illustrates how a machine learning model can be trained using existing data.
+- It applies regression techniques to predict numerical outcomes.
+- It evaluates model performance using error metrics.
+
+This program aims to simulates a realistic data science workflow where data is processed, a model is trained, predictions are made, and results are evaluated.
+
+## 4. What would be some sample input/output?
+
+### Sample Input
+
+The program primarily uses a built-in dataset, so the input consists of numerical feature values representing patient data. These values are handled internally by the program.
+
+An example of a single input instance :
+
+<img width="394" height="39" alt="image" src="https://github.com/user-attachments/assets/e14a146e-4e58-48d5-a0c1-831295b7e59c" />
+
+
