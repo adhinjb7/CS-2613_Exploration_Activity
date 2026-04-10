@@ -123,21 +123,22 @@ It helped me learn:
 
 Overall, my experience with Scikit-learn was very positive.
 
-It is easy to use
-Well-documented
-Powerful and efficient
-When would you recommend this package/library?
+- It is easy to use
+- Well-documented
+- Powerful and efficient
+
+### When would you recommend this package/library?
 
 I would recommend Scikit-learn to:
 
-Beginners learning machine learning
-Students working on data projects
-Developers interested in AI
-Would you continue using this package/library? Why or why not?
+- Beginners learning machine learning
+- Students working on data projects
+- Developers interested in AI
+- Would you continue using this package/library? Why or why not?
 
-Yes, I would continue using Scikit-learn because:
+I would also continue using Scikit-learn because:
 
-It provides reliable tools
-It supports many algorithms
-It integrates well with other Python libraries
+- It provides reliable tools
+- It supports many algorithms
+- It integrates well with other Python libraries
 
