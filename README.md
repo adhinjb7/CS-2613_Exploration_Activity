@@ -31,7 +31,7 @@ cd CS-2613_Exploration_Activity
 
 ### Step 3: Run the Program
 
-## What purpose does your program serve?
+python sampleProgram.py
 
 ### Step 4: Output
 
