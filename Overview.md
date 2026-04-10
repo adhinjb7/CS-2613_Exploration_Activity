@@ -182,11 +182,12 @@ I would recommend Scikit-learn to:
 
 I would also continue using Scikit-learn because:
 
+- It provides reliable tools for machine learning
+- It supports many algorithms
+- It integrates well with other Python libraries like numpy , matplotlib etc
+
 ## References 
 
 [1] Tutorials Point, “Scikit-Learn Introduction,” TutorialsPoint, [Online]. Available: https://www.tutorialspoint.com/scikit_learn/scikit_learn_introduction.htm. [Accessed: Apr. 8, 2026].
 
-- It provides reliable tools
-- It supports many algorithms
-- It integrates well with other Python libraries
 
