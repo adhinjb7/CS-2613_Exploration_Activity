@@ -1,6 +1,6 @@
 # CS-2613_Exploration_Activity
 
-## Which package/library does the sample program demonstrate?
+## 1. Which package/library does the sample program demonstrate?
 
 The package/library demonstrated in this project is **Scikit-learn**, a widely used open-source machine learning library in Python.
 
@@ -12,9 +12,11 @@ In this project, Scikit-learn is used to implement multiple machine learning mod
 - Decision Tree Classifier (for classification tasks)
 - MLP Classifier (a neural network model)
 
-## How does someone run your program?
+## 2. How does someone run your program?
 
 To run this program, the user must have Python installed on their system along with the required libraries.
+
+Python can be installed from this website: https://www.python.org/
 
 ### Step 1: Install Required Libraries
 
@@ -26,8 +28,8 @@ pip install scikit-learn pandas
 
 Download the project files or clone the repository using Git 
 
-git clone <repository-link>
-cd CS-2613_Exploration_Activity
+- git clone <repository-link>
+- cd CS-2613_Exploration_Activity
 
 ### Step 3: Run the Program
 
@@ -61,7 +63,7 @@ The program serves several important purposes:
 
 Overall, this program simulates a realistic data science workflow where data is processed, models are trained, predictions are made, and results are evaluated.
 
-## What would be some sample input/output?
+## 4. What would be some sample input/output?
 
 ### Sample Input
 
